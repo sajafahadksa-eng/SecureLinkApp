@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3-blue)
+
+
 # 🎓 Smart Student Assistant
 
 A simple yet powerful Python project designed to help students organize their academic life efficiently.
@@ -41,23 +44,22 @@ The goal is to create a lightweight and beginner-friendly productivity tool whil
 ## 🚀 How to Run the Project
 
 1. Make sure Python is installed on your computer.
-2. Clone the repository from GitHub.
+2. Clone the repository.
 
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
+`git clone https://github.com/USERNAME/Smart-Student-Assistant.git
+
 
 3. Navigate to the project folder.
 
-```bash
-cd your-repository-name
-```
+
+cd Smart-Student-Assistant
+
 
 4. Run the program.
 
-```bash
+
 python main.py
-```
+
 
 ---
 
